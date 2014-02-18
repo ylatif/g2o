@@ -10,7 +10,10 @@ git clone https://github.com/ylatif/g2o.github
 Followed by: 
 
 cd g2o/trunk/build
+
 cmake ..
+
 make
+
 sudo make install 
 
